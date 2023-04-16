@@ -26,6 +26,7 @@
 
 - 🌈 Soldier _76: I'm an army of one.
 - 🌈 士兵76：我一个人就是一支军队.
+- [Overwatch - Soldier 76 All Voice Lines](https://youtu.be/Rb0PGVs2nFg?t=17)
 
 
 ## Super-individual Era
