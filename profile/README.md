@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/3252130/232291231-2c17ab82-6ddc-44fd-a010-bc1421027caf.png)
 
 - https://overwatch.fandom.com/wiki/Soldier:_76
+- [士兵76](https://overwatch.blizzard.com/zh-tw/heroes/soldier-76/)
 - [Soldier:_76](https://en.wikipedia.org/wiki/Soldier:_76)
 - [Soldier:_76/Quotes](https://overwatch-archive.fandom.com/wiki/Soldier:_76/Quotes)
 
